@@ -43,7 +43,7 @@ Initialization| | |
 Deinitialization| | | 
 Optional Chaining| | | 
 Error Handling| | | 
-Concurrency| | | 
+Concurrency|(2월 15일 발표예정)| | 
 Type Casting| | | 
 Nested Types| | | 
 Extensions| | | 
@@ -55,3 +55,7 @@ Memory Safety| | |
 Access Control| | | 
 Advanced Operators| | | 
 
+## ✍ 스터디 일정
+  일시 | 발표자 | 주제
+:------:|:-----:|:---------:|
+2월 15일|`김가영(Lauren)`| concurrency |
