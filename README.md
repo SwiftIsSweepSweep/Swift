@@ -4,7 +4,7 @@
 ## 👩‍💻 스터디 구성원
 |  김수현(Nylah) | 김가영(Lauren)  | 김효린(River) |  이태혁(Terry) |   
 |---|---|---|---|
-|   |   |   |   |
+|   | ![image](https://user-images.githubusercontent.com/55867479/153530190-92d91d54-23c9-4c86-8d05-5a4d4a2cd70b.png) |   |   |
 
 
 
