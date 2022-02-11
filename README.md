@@ -56,6 +56,6 @@ Access Control| | |
 Advanced Operators| | | 
 
 ## ✍ 스터디 일정
-  일시 | 발표자 | 주제
-:------:|:-----:|:---------:|
-2월 15일|`김가영(Lauren)`| concurrency |
+  일시 | 발표자 | 주제 | 관련 링크
+:------:|:-----:|:---------:|:----:|
+2월 15일|`김가영(Lauren)`| concurrency | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
