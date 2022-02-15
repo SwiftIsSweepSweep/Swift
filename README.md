@@ -43,7 +43,7 @@ Initialization| | |
 Deinitialization| | | 
 Optional Chaining| | | 
 Error Handling| | | 
-Concurrency|(2월 15일 발표예정)| | 
+Concurrency|(2월 15일)|[바로가기](./concurrency/concurrency.md)|
 Type Casting| | | 
 Nested Types| | | 
 Extensions| | | 
@@ -58,4 +58,4 @@ Advanced Operators| | |
 ## ✍ 스터디 일정
   일시 | 발표자 | 주제 | 관련 링크
 :------:|:-----:|:---------:|:----:|
-2월 15일|`김가영(Lauren)`| concurrency | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
+2월 15일|`김가영(Lauren)`| concurrency |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
