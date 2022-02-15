@@ -24,8 +24,8 @@
 <br/>
 
 ## ✍ 스터디 주제 
-  주제 | ✅체크 | 🔗정리 링크 
-------|-----|---------|
+  주제 | ✅체크 | 🔗 Reference documentation
+------|-----|:---------:|
 The Basics| | |
 Basic Operators| | | 
 Strings and Characters| | | 
@@ -43,7 +43,7 @@ Initialization| | |
 Deinitialization| | | 
 Optional Chaining| | | 
 Error Handling| | | 
-Concurrency|(2월 15일)|[바로가기](./concurrency/concurrency.md)|
+[Concurrency](./concurrency/concurrency.md)|(2월 15일)|[공식문서 바로가기](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)|
 Type Casting| | | 
 Nested Types| | | 
 Extensions| | | 
