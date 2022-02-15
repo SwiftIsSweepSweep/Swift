@@ -21,7 +21,7 @@
 
 ## _**Dispatch Queues**
 
-> _ are objects that maintain a queue of tasks, either anonymous code blocks or function, and execute these tasks in their turn 
+> **Dispatch Queues** are objects that maintain a queue of tasks, either anonymous code blocks or function, and execute these tasks in their turn 
 
 - https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2
 - Library는 기본적으로 여러개의 queue들을 생성한다.
@@ -91,7 +91,7 @@ func fetchThumbnail(for id: String, completion: @escaping (UIImage?, Error?) -> 
 
 ## Implementation
 - 같은 코드를 async, await을 이용해서 표현하면
-- 
+
 ```swift
 func fetchThumbnail(for id: String) async throws -> UIImage {
     let request = thumbnailURLRequest(for: id)  
@@ -150,7 +150,7 @@ func fetchThumbnail(for id: String) async throws -> UIImage {
 ![38E52542-7C9C-4EFD-985C-6C74E31EDDEB.jpeg](38E52542-7C9C-4EFD-985C-6C74E31EDDEB.jpeg)
 ![2B3B771D-3B52-4D12-82D9-83D7355ADD58.jpeg](2B3B771D-3B52-4D12-82D9-83D7355ADD58.jpeg)
 - parent task는 child tasks들이 모두 완료된 상태에서만 종료 가능하다. 
-- _만약 child task 중 하나가 비정상적으로 종료된다면, parent task도 error를 던진다. 남은 unawaited task들에 대해서는 cancel을 마크해놓는다.
+- 만약 child task 중 하나가 비정상적으로 종료된다면, parent task도 error를 던진다. 남은 unawaited task들에 대해서는 cancel을 마크해놓는다.
 - cancel 마크는 task와 그 subtask들에게 response가 필요없음을 알린다. 
 - Cancellation is cooperative
 	- tasks are not stopped immediately when cancelled
@@ -252,7 +252,7 @@ actor TemperatureLogger {
 - 다른 점은, actor의 property나 method에 접근할 때에는 `await` 을 추가해야한다. 이를 통해 해당 지점이 suspension point일 수 있음을 드러낸다.
 - actor는 항상 한 번에 하나의 task만 접근을 허용하기 때문에, 다른 task가 이미 actor instance를 이용하고 있다면, 해당 동작은 suspension된다.
 - actor 내부에서 자기 자신의 property에 접근할 때에는 `await`을 이용하지 않아도 된다.
-```
+```swift
 let logger = TemperatureLogger(label: "Outdoors", measurement: 25)
 print(await logger.max)
 // Prints "25"
