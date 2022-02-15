@@ -19,7 +19,7 @@
 - Thread poll을 developer가 관리하는 대신 OS가 직접 관리해주는 것
 - **GCD works by allowing specific tasks in a program that can be run in parallel to be queued up for execution and, depending on avaliability of processing resources, scheduling then to execute on any of available processor cores**
 
-## _**Dispatch Queues**
+## **Dispatch Queues**
 
 > **Dispatch Queues** are objects that maintain a queue of tasks, either anonymous code blocks or function, and execute these tasks in their turn 
 
