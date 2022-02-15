@@ -136,6 +136,7 @@ func fetchThumbnail(for id: String) async throws -> UIImage {
 - Swift Concurrency(async, await)는 FIFO queue 대신 시스템이 직접 작업을 할당하기 때문에 우선순위가 높은 태스크가 바로 먼저 실행될 수 있다.
 # structured concurrency in Swift
 ## Tasks
+- a unit of work that can be run asynchronously as part of your program
 - A unit of asynchronous work.
 - 자동으로 parallel 동작을 지원함
 - 생성되자마자 작업을 시작하기 때문에 직접 시작하거나, 스케쥴해줄 필요는 없다.
