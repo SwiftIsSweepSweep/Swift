@@ -32,7 +32,7 @@ Strings and Characters| | |
 Collection Types| | | 
 Control Flow| | | 
 Functions| | | 
-Closures| | | 
+Closures|(2월 22일)|[공식문서 바로가기](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)| 
 Enumerations| | | 
 Structures and Classes| | | 
 Properties| | | 
@@ -58,4 +58,6 @@ Advanced Operators| | |
 ## ✍ 스터디 일정
   일시 | 발표자 | 주제 | 관련 링크
 :------:|:-----:|:---------:|:----:|
-2월 15일|`김가영(Lauren)`| concurrency |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
+2월 15일|`김가영(Lauren)`| Concurrency |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
+2월 22일|`김효린(River)`| Closures |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
+
