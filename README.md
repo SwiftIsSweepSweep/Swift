@@ -32,7 +32,7 @@ Strings and Characters| | |
 Collection Types| | | 
 Control Flow| | | 
 Functions| | | 
-Closures|(2월 22일)|[공식문서 바로가기](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)| 
+[Closures](./closures.md)|(2월 22일)|[공식문서 바로가기](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)| 
 Enumerations| | | 
 Structures and Classes| | | 
 Properties| | | 
