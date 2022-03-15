@@ -32,7 +32,7 @@ Strings and Characters| | |
 Collection Types| | | 
 Control Flow| | | 
 Functions| | | 
-[Closures](./closures.md)|(2월 22일)|[공식문서 바로가기](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)| 
+Closures|(2월 22일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html) / [스터디](./closures.md)| 
 Enumerations| | | 
 Structures and Classes| | | 
 Properties| | | 
@@ -43,10 +43,10 @@ Initialization| | |
 Deinitialization| | | 
 Optional Chaining| | | 
 Error Handling| | | 
-[Concurrency](./concurrency/concurrency.md)|(2월 15일)|[공식문서 바로가기](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)|
+Concurrency|(2월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html) / [스터디](./concurrency/concurrency.md)|
 Type Casting| | | 
 Nested Types| | | 
-Extensions| | | 
+Extensions|(3월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html) / [스터디](./extensions.md) |
 Protocols| | | 
 Generics| | | 
 Opaque Types| | | 
@@ -58,6 +58,7 @@ Advanced Operators| | |
 ## ✍ 스터디 일정
   일시 | 발표자 | 주제 | 관련 링크
 :------:|:-----:|:---------:|:----:|
-2월 15일|`김가영(Lauren)`| Concurrency |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
-2월 22일|`김효린(River)`| Closures |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
-
+2월 15일|`김가영(Lauren)`| [Concurrency](./concurrency/concurrency.md) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
+2월 22일|`김효린(River)`| [Closures](./closures.md) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
+3월 8일 |`김수현(Nylah)` | |ARC|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
+3월 15일 | `김가영(Lauren)` | [Extensions](./extensions.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
