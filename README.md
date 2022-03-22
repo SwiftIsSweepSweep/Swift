@@ -39,7 +39,7 @@ Properties| | |
 Methods| | | 
 Subscripts| | | 
 Inheritance| | | 
-Initialization| | | 
+Initialization|(3월 22일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)/[스터디](./initialization.md) | 
 Deinitialization| | | 
 Optional Chaining| | | 
 Error Handling| | | 
@@ -62,3 +62,4 @@ Advanced Operators| | |
 2월 22일|`김효린(River)`| [Closures](./closures.md) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
 3월 8일 |`김수현(Nylah)` | |ARC|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
 3월 15일 | `김가영(Lauren)` | [Extensions](./extensions.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
+3월 22일 | `이태혁(Terry)` | [Initialization](./initialization.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
