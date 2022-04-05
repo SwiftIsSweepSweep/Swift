@@ -34,26 +34,30 @@ Control Flow| | |
 Functions| | | 
 Closures|(2월 22일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html) / [스터디](./closures.md)| 
 Enumerations| | | 
-Structures and Classes| | | 
-Properties| | | 
+Structures and Classes| :star: | | 
+Properties| :star: | | 
 Methods| | | 
 Subscripts| | | 
 Inheritance| | | 
 Initialization|(3월 22일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)/[스터디](./initialization.md) | 
 Deinitialization| | | 
-Optional Chaining| | | 
-Error Handling| | | 
+Optional Chaining| :star: | | 
+Error Handling|  | | 
 Concurrency|(2월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html) / [스터디](./concurrency/concurrency.md)|
-Type Casting| | | 
+Type Casting| :star: | | 
 Nested Types| | | 
 Extensions|(3월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html) / [스터디](./extensions.md) |
-Protocols| | | 
-Generics| | | 
-Opaque Types| | | 
+Protocols| :star: | | 
+Generics|(4월 5일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Generics.html) / [스터디]([./extensions.md](https://github.com/SwiftIsSweepSweep/Swift/blob/main/Generic/Generic.md))  | 
+Opaque Types| :star: | | 
 Automatic Reference Counting| | | 
-Memory Safety| | | 
-Access Control| | | 
-Advanced Operators| | | 
+Memory Safety| :star: | | 
+Access Control| :star: | | 
+Advanced Operators| :star: | | 
+비동기 처리 (GCD)| | | 
+
+
+
 
 ## ✍ 스터디 일정
   일시 | 발표자 | 주제 | 관련 링크
