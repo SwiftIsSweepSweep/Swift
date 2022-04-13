@@ -68,4 +68,5 @@ Advanced Operators| :star: | |
 3월 15일 | `김가영(Lauren)` | [Extensions](./extensions.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
 3월 22일 | `이태혁(Terry)` | [Initialization-1](./initialization.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
 3월 29일|`김효린(River)`| [Initialization-2](./Initialization-2/Initialization-2.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
+4월 12일| `이태혁(Terry)`| [Properties](./Properties.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
 
