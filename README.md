@@ -35,7 +35,7 @@ Functions| | |
 Closures|(2월 22일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html) / [스터디](./closures.md)| 
 Enumerations| | | 
 Structures and Classes| :star: | | 
-Properties| :star: | | 
+Properties| (4월 12일) :star:|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Properties.html) / [스터디](./Properties.md) | 
 Methods| | | 
 Subscripts| | | 
 Inheritance| | | 
