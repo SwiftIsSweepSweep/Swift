@@ -34,7 +34,7 @@ Control Flow| | |
 Functions| | | 
 Closures|(2월 22일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html) / [스터디](./closures.md)| 
 Enumerations| | | 
-Structures and Classes| :star: | | 
+Structures and Classes| (4월 19일) :star: | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html) / [스터디](./Structures%20and%20Classes/Structures%20and%20Classes.md) | 
 Properties| (4월 12일) :star:|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Properties.html) / [스터디](./Properties.md) | 
 Methods| | | 
 Subscripts| | | 
@@ -69,4 +69,5 @@ Advanced Operators| :star: | |
 3월 22일 | `이태혁(Terry)` | [Initialization-1](./initialization.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
 3월 29일|`김효린(River)`| [Initialization-2](./Initialization-2/Initialization-2.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
 4월 12일| `이태혁(Terry)`| [Properties](./Properties.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
+4월 19일|`김효린(River)`| [Structures and Classes](./Structures%20and%20Classes/Structures%20and%20Classes.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
 
