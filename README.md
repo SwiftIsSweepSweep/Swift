@@ -41,7 +41,7 @@ Subscripts| | |
 Inheritance| | | 
 Initialization|(3월 22일)<br>(3월 29일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html) / [스터디-1](./initialization.md)<br>  / [스터디-2](./Initialization-2/Initialization-2.md) | 
 Deinitialization| | | 
-Optional Chaining| :star: | | 
+Optional Chaining| (5월 10일) :star: | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html) / [스터디](./Optional%20Chaining.md)| 
 Error Handling|  | | 
 Concurrency|(2월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html) / [스터디](./concurrency/concurrency.md)|
 Type Casting| :star: | | 
@@ -70,4 +70,5 @@ Advanced Operators| :star: | |
 3월 29일|`김효린(River)`| [Initialization-2](./Initialization-2/Initialization-2.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
 4월 12일| `이태혁(Terry)`| [Properties](./Properties.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
 4월 19일|`김효린(River)`| [Structures and Classes](./Structures%20and%20Classes/Structures%20and%20Classes.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
+5월 10일|`김효린(River)`| [Optional Chaining](./Optional%20Chaining.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
 
