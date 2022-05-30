@@ -49,7 +49,7 @@ Nested Types| | |
 Extensions|(3월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html) / [스터디](./extensions.md) |
 Protocols| :star: | | 
 Generics|(4월 5일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Generics.html) / [스터디]([./extensions.md](https://github.com/SwiftIsSweepSweep/Swift/blob/main/Generic/Generic.md))  | 
-Opaque Types| :star: | | 
+Opaque Types| :star:(5월16일, 31일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html) / [스터디](./Opaque%20Types.md) | 
 Automatic Reference Counting| | | 
 Memory Safety| :star: | | 
 Access Control| :star: | | 
@@ -60,15 +60,18 @@ Advanced Operators| :star: | |
 
 
 ## ✍ 스터디 일정
-  일시 | 발표자 | 주제 | 관련 링크
-:------:|:-----:|:---------:|:----:|
-2월 15일|`김가영(Lauren)`| [Concurrency](./concurrency/concurrency.md) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
-2월 22일|`김효린(River)`| [Closures](./closures.md) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
-3월 8일 |`김수현(Nylah)` | |ARC|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
-3월 15일 | `김가영(Lauren)` | [Extensions](./extensions.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
-3월 22일 | `이태혁(Terry)` | [Initialization-1](./initialization.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
-3월 29일|`김효린(River)`| [Initialization-2](./Initialization-2/Initialization-2.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
-4월 12일| `이태혁(Terry)`| [Properties](./Properties.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
-4월 19일|`김효린(River)`| [Structures and Classes](./Structures%20and%20Classes/Structures%20and%20Classes.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
-5월 10일|`김효린(River)`| [Optional Chaining](./Optional%20Chaining.md) | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
+  일시 | 발표자 | 주제 |
+:------:|:-----:|:---------:|
+2월 15일|`김가영(Lauren)`| Concurrency|
+2월 22일|`김효린(River)`| Closures|
+3월 8일 |`김수현(Nylah)` | ARC|
+3월 15일 | `김가영(Lauren)` | Extensions|
+3월 22일 | `이태혁(Terry)` | Initialization-1|
+3월 29일|`김효린(River)`| Initialization-2|
+4월 5일 |`김수현(Nylah)` | Generics|
+4월 12일| `이태혁(Terry)`| Properties|
+4월 19일|`김효린(River)`| Structures and Classes|
+5월 10일|`김효린(River)`| Optional Chaining|
+5월 16일 | `이태혁(Terry)` | Opaque Types-1|
+5월 31일 | `이태혁(Terry)` | Opaque Types-2|
 
