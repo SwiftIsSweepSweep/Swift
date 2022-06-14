@@ -44,7 +44,7 @@ Deinitialization| | |
 Optional Chaining| (5월 10일) :star: | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html) / [스터디](./Optional%20Chaining.md)| 
 Error Handling|  | | 
 Concurrency|(2월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html) / [스터디](./concurrency/concurrency.md)|
-Type Casting| :star: | | 
+Type Casting| (6월 14일) :star: | [공식문서](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html) / [스터디](./Type%20Casting.md) | 
 Nested Types| | | 
 Extensions|(3월 15일)|[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html) / [스터디](./extensions.md) |
 Protocols| :star: | | 
@@ -74,4 +74,6 @@ Advanced Operators| :star: | |
 5월 10일|`김효린(River)`| Optional Chaining|
 5월 16일 | `이태혁(Terry)` | Opaque Types-1|
 5월 31일 | `이태혁(Terry)` | Opaque Types-2|
+6월 14일|`김효린(River)`| Type Casting|
+
 
