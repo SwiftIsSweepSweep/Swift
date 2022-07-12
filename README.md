@@ -75,5 +75,6 @@ Advanced Operators| :star: | |
 5월 16일 | `이태혁(Terry)` | Opaque Types-1|
 5월 31일 | `이태혁(Terry)` | Opaque Types-2|
 6월 14일|`김효린(River)`| Type Casting|
+7월 12일 | `이태혁(Terry)` | Memory Safety|
 
 
