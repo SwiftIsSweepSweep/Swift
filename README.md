@@ -51,7 +51,7 @@ Protocols| :star: | |
 Generics|(4월 5일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/Generics.html) / [스터디]([./extensions.md](https://github.com/SwiftIsSweepSweep/Swift/blob/main/Generic/Generic.md))  | 
 Opaque Types| :star:(5월16일, 31일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html) / [스터디](./Opaque%20Types.md) | 
 Automatic Reference Counting| | | 
-Memory Safety| :star: | | 
+Memory Safety| :star:(7월 12일) |[공식문서](https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html) / [스터디](./memorySafety.md) | 
 Access Control| :star: | | 
 Advanced Operators| :star: | | 
 비동기 처리 (GCD)| | | 
